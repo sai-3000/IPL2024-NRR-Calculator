@@ -39,7 +39,7 @@ This Flask web application calculates the Net Run Rate (NRR) for cricket teams b
 
 ## Credits
 
-This project is created by [Your Name] and is inspired by the Net Run Rate calculation used in cricket tournaments like the Indian Premier League (IPL).
+This project is created by Sai Smaran Panda and is inspired by the Net Run Rate calculation used in cricket tournaments like the Indian Premier League (IPL).
 
 ## License
 
