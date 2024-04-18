@@ -1,2 +1,5 @@
 * linguist-vendored=false
 * linguist-language=Python
+
+*.html linguist-language=HTML
+*.css linguist-language=CSS
