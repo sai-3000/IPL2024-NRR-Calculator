@@ -19,7 +19,7 @@ This Flask web application calculates the Net Run Rate (NRR) for cricket teams b
 ## File Structure
 
 - `app.py`: Contains the Flask application code.
-- `static/`: Contains CSS stylesheets (`styles.css`).
+- `static/`: Contains CSS stylesheets (`styles.css`) and (`home.css`).
 - `templates/`: Contains HTML templates (`index.html`) for the web pages.
 
 ## Dependencies
