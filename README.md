@@ -5,10 +5,9 @@ This Flask web application calculates the Net Run Rate (NRR) for cricket teams b
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Make sure you have a SQLite database named `ipl.db` with the required tables (`teams` and `teams_opp`) and data.
-4. Run the Flask application using `python app.py`.
-5. Access the application in your web browser at `http://localhost:5000`.
+2. Make sure you have a SQLite database named `ipl.db` with the required tables (`teams` and `teams_opp`) and data.
+3. Run the Flask application using `python app.py`.
+4. Access the application in your web browser at `http://localhost:5000`.
 
 ## Usage
 
